@@ -1,0 +1,17 @@
+# 16/08/22
+## Armado de Robot
+Hoy comenzamos y finalizamos el ensamble del duckirobot. Guiandonos en las instrucciones proyectadas y con ciertos consejos de parte de la empresa logramos
+ensamblar por completo el robot, luego fue necesario conectarlo a un computador y cargarle un programa para asi ver si los motores y demás componentes 
+funcionaban optimamente. Fue en este punto en que nos dimos que existía un problema; nuestro robot solo giraba, independiente del comando mandado desde el
+joystick.
+La solución fue sencilla, debíamos cambiar la polaridad que conectaba los motores.
+Finalmente lo probamos en Duckitown para dar cuenta que funcionaba óptimamente, aún así se nota que al momento de doblar es considerablemente más lento que 
+los demás moviles.
+## Experiencia
+Si bien el armado no era una labor difícil, las instrucciones de la presentacion eran un tanto ambiguas, se podría mejorar. Sin embargo esto se compenso 
+con la constante ayuda de parte del equipo docente.
+Algunos de los materiales del kit faltaban o no eran el adecuado, el atornillador no era la medida adecuada, faltaban pernos y tuercas lo que resultó
+en demora innecesaria al momento de armado.
+## Aprendizaje
+Además de arma el robot, nos conocimos un poco más como grupo.
+Recordamos hacía que lado es el torque positivo.
